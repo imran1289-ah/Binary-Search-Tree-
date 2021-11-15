@@ -1,2 +1,2 @@
 # Binary-Search-Tree-
-Binary Search Tree in Java
+Binary Search Tree implemented in Java 
